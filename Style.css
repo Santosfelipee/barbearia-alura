@@ -2,7 +2,7 @@ body{
     text-align: center;
 } 
 
-em,strong{  
-color: darkseagreen;
+em.strong{  
+color: hsl(from color h s l);
 }
 
