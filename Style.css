@@ -3,6 +3,6 @@ body{
 } 
 
 em,strong{  
-color: oklab(from color l a b);
+color: darkseagreen;
 }
 
