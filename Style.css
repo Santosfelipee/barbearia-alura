@@ -1,7 +1,9 @@
-body{
+body {
+    background: #cccccc;
     text-align: center;
-} 
+}
 
-em,strong{  
-color: darkgreen;
+em,
+strong {
+    color: darkgreen;
 }
